@@ -20,8 +20,13 @@ Features implemented by my own outside the scope of the course:
 
 ### The game is developed in scope of Unreal Engine C++ Developer course on Udemy. <br />
 Course link: https://www.udemy.com/course/unreal-422-archived-course/
-<br />
-<br />
+<br /><br />
 
 ### Link to game description and gameplay screenshots: 
 https://www.notion.so/Bulls-Cows-game-9ac3af0583154efe90c4d780b4103f04
+<br /><br />
+
+## Try the game yourself!
+You can play this game by downloading the BullCowGame.rar archive.<br />
+There you will find a playable .exe file.<br />
+<ins>Note:</ins> The game is only playable on Windows 7/8/10/11 64 bit version
