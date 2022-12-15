@@ -5,6 +5,8 @@
 The game is developed in scope of Unreal Engine C++ Developer course on Udemy. 
 Course link: https://www.udemy.com/course/unreal-422-archived-course/
 
+Link to game description and gameplay screenshots: https://www.notion.so/Bulls-Cows-game-9ac3af0583154efe90c4d780b4103f04
+
 <br />
 During this game development I’ve learned basics of navigating and operating in Unreal Engine program. Also, I’ve learned assets/objects adding and editing using available tools. As for actual development, I’ve got the general understanding of the UE C++ syntax specifics and learned about:
 
@@ -21,5 +23,4 @@ During this game development I’ve learned basics of navigating and operating i
 - Revealing letters, which exist and placed correctly as in hidden word;
 - Overall code optimisations and syntax improvements.
 
-<br />
-Link to game playthrough footage and gameplay description: https://www.notion.so/Bulls-Cows-game-9ac3af0583154efe90c4d780b4103f04
+
