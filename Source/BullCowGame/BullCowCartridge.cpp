@@ -49,10 +49,6 @@ void UBullCowCartridge::SetupGame()
     PrintLine(TEXT("Guess a hidden word.\nThe word is %i letters long."), HiddenWord.Len());
     PrintLine(TEXT("You have %i lives before the game is over.\n"), Lives);
     PrintLine(TEXT("Type in your guess and press\nEnter to start..."));
-
-    // const TCHAR HW[] = TEXT("plumbs");
-    // PrintLine(TEXT("Character 1 of the hidden word is: %c"), HiddenWord[0]);
-    // PrintLine(TEXT("Character 4 of the HW is: %c"), HW[3]);
 }
 
 void UBullCowCartridge::EndGame()
@@ -141,38 +137,7 @@ bool UBullCowCartridge::IsIsogram(const FString& Word) const
         }
     }
     return true;
-} 
-
-/* void UBullCowCartridge::CheckBullsAndCows(const FString& Word)
-{
-    int32 Bulls = 0, Cows = 0;
-
-    for (int32 LetterIndex = 0; LetterIndex < Word.Len(); LetterIndex++) 
-    {
-        for (int32 HiddenLetterIndx = 0; HiddenLetterIndx < Word.Len(); HiddenLetterIndx++)
-        {
-            if (HiddenWord[HiddenLetterIndx] == Word[LetterIndex]) {
-                if (LetterIndex == HiddenLetterIndx) 
-                {
-                    Bulls++;
-                }
-                else
-                {
-                    Cows++;
-                } 
-            }
-        }
-    }
-
-    if (Bulls > 0 || Cows > 0)
-    {
-        PrintLine(TEXT("You have %i Bulls and %i Cows"), Bulls, Cows);
-    }    
-    else 
-    {
-        PrintLine(TEXT("No similar letters found."));
-    }
-} */
+}
 
 FBullCowCount UBullCowCartridge::GetBullsAndCows(const FString& Guess)
 {
@@ -204,3 +169,35 @@ FBullCowCount UBullCowCartridge::GetBullsAndCows(const FString& Guess)
 
     return Count;
 }
+
+// Alternative way of detecting matching letters and count Bulls and Cows points
+/* void UBullCowCartridge::CheckBullsAndCows(const FString& Word)
+{
+    int32 Bulls = 0, Cows = 0;
+
+    for (int32 LetterIndex = 0; LetterIndex < Word.Len(); LetterIndex++) 
+    {
+        for (int32 HiddenLetterIndx = 0; HiddenLetterIndx < Word.Len(); HiddenLetterIndx++)
+        {
+            if (HiddenWord[HiddenLetterIndx] == Word[LetterIndex]) {
+                if (LetterIndex == HiddenLetterIndx) 
+                {
+                    Bulls++;
+                }
+                else
+                {
+                    Cows++;
+                } 
+            }
+        }
+    }
+
+    if (Bulls > 0 || Cows > 0)
+    {
+        PrintLine(TEXT("You have %i Bulls and %i Cows"), Bulls, Cows);
+    }    
+    else 
+    {
+        PrintLine(TEXT("No similar letters found."));
+    }
+} */
