@@ -1,8 +1,11 @@
 # Игра «Бычки и Коровки»
 
-# «Бычки и Коровки» — это игра во встроенном терминале движка Unreal Engine 4.
+<img src="https://github.com/Romandre/BullsCowsGame_UE4/blob/031b62c05b56760a72b26991414618278364c60e/cute-cow.ico?raw=true" width="280">
+
+# «Бычки и Коровки» — это игра во встроенном терминале движка Unreal Engine 4 написанная на C++.
 
 В этой игре игрок должен угадать загаданное игрой слово, в то время как игра дает подсказки о том, сколько "Быков" и "Коров" найдено после ввода предполагаемого слова игроком. Количество Коровок соответствует количеству символов, которые есть в загаданном слове. Количество Бычков соответствует количеству символов, которые не только есть, но и правильно расположен как в загаданном слове.
 
-Игра разработана в рамках курса [Unreal Engine C++ Developer](https://www.udemy.com/course/unreal-422-archived-course/learn/lecture/31481968?start=300#overview) на платформе Udemy.
-Ознакомьтесь с описанием игры и скриншотами геймплея [здесь](https://pebble-lantern-5e5.notion.site/Bulls-Cows-gameplay-description-9ac3af0583154efe90c4d780b4103f04).
+#### Игра разработана в рамках курса [Unreal Engine C++ Developer](https://www.udemy.com/course/unreal-422-archived-course/learn/lecture/31481968?start=300#overview) на платформе Udemy.
+
+#### Ознакомьтесь с описанием игры и скриншотами геймплея [здесь](https://pebble-lantern-5e5.notion.site/Bulls-Cows-gameplay-description-9ac3af0583154efe90c4d780b4103f04).
