@@ -37,3 +37,6 @@ You can play this game by downloading the BullCowGame.rar archive.<br />
 There you will find a playable .exe file.<br />
 
 <ins>Note:</ins> The game is only playable on Windows 7/8/10/11 64 bit version. Mac support to be added later.
+<br /><br /><br /><br />
+
+[Описание игры на русском](https://github.com/Romandre/BullsCowsGame_UE4/blob/3f6766996064294d5731aa049fc46d6b568abb4c/README_RU.md) :point_left:
