@@ -18,12 +18,11 @@ Features implemented by my own outside the scope of the course:
 - Overall code optimisations and syntax improvements.
 <br />
 
-### The game is developed in scope of Unreal Engine C++ Developer [course on Udemy](https://www.udemy.com/course/unreal-422-archived-course/).
-<br /><br />
+#### The game is developed in scope of [Unreal Engine C++ Developer course](https://www.udemy.com/course/unreal-422-archived-course/) on Udemy.
+<br />
 
-### Link to game description and gameplay screenshots (in Notion): 
-[Bulls and Cows game dexription (Notion)](https://pebble-lantern-5e5.notion.site/Bulls-Cows-gameplay-description-9ac3af0583154efe90c4d780b4103f04)
-<br /><br />
+#### Check out the game description and gameplay screenshots [here](https://pebble-lantern-5e5.notion.site/Bulls-Cows-gameplay-description-9ac3af0583154efe90c4d780b4103f04).
+<br />
 
 ## Try the game yourself!
 You can play this game by downloading the BullCowGame.rar archive.<br />
