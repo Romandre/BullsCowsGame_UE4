@@ -29,4 +29,4 @@ https://www.notion.so/Bulls-Cows-game-9ac3af0583154efe90c4d780b4103f04
 ## Try the game yourself!
 You can play this game by downloading the BullCowGame.rar archive.<br />
 There you will find a playable .exe file.<br />
-<ins>Note:</ins> The game is only playable on Windows 7/8/10/11 64 bit version
+<ins>Note:</ins> The game is only playable on Windows 7/8/10/11 64 bit version. Mac support to be added later.
