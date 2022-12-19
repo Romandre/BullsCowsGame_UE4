@@ -1,4 +1,4 @@
-# Bulls and Cows game repository
+# "Bulls and Cows" game repository
 
 <img src="https://github.com/Romandre/BullsCowsGame_UE4/blob/031b62c05b56760a72b26991414618278364c60e/cute-cow.ico?raw=true" width="250">
 
