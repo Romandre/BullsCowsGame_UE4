@@ -12,9 +12,9 @@ The Cows amount corresponds to letters which exist in the hidden word. The Bulls
 #### Check out the game description and gameplay screenshots [here](https://pebble-lantern-5e5.notion.site/Bulls-Cows-gameplay-description-9ac3af0583154efe90c4d780b4103f04).
 <br />
 
-## Here is what I learned during this project development:
+## Here is what I've learned during this project development:
 
-During this game development I’ve learned basics of navigating and operating in Unreal Engine program. Also, I’ve learned assets/objects adding and editing using available tools. As for actual development, I’ve got the general understanding of the UE C++ syntax specifics and learned about:
+During this game development I’ve learned basics of navigating and operating in Unreal Engine program. Also, I’ve learned assets/objects adding and editing using available tools. As for actual development, I’ve got the general understanding of the UE C++ syntax specifics and have learned about:
 
 - Actors and components;
 - UE project basic structure;
@@ -25,8 +25,8 @@ During this game development I’ve learned basics of navigating and operating i
 <br />
 Features implemented by my own outside the scope of the course:
 
-- Revealing letters, which exist in the hidden word;
-- Revealing letters, which exist and placed correctly as in hidden word;
+- Revealing letters that exist in a hidden word;
+- Revealing letters that exist and placed correctly as in a hidden word;
 - Overall code optimisations and syntax improvements.
 <br />
 
