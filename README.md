@@ -4,8 +4,8 @@
 
 ### "Bulls and Cows" is a terminal-based word guessing game built on Unreal Engine 4.
 
-In this game a player has to guess a hidden word while game is giving hints of how many Bulls and Cows there are foubd after each player's guess.
-The Cows correspond to characters which exist in a hidden word. The Bulls correspond to characters which not only exist in a hidden word but also placed correctly.
+In this game a player has to guess a hidden word while game is giving hints of how many Bulls and Cows there are found after each player's guess.
+The Cows amount corresponds to characters which exist in a hidden word. The Bulls amount corresponds to characters which not only exist in a hidden word but also placed correctly.
 
 #### The game is developed in scope of [Unreal Engine C++ Developer course](https://www.udemy.com/course/unreal-422-archived-course/) on Udemy.<br />
 
